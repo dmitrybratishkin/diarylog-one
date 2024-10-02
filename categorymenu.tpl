@@ -1,0 +1,2 @@
+[item]<li><a href="{url}" id="{id}">{name}</a>[isparent]<div class="nav__btn"><span class="fal fa-plus"></span></div>[/isparent]
+[sub-prefix]<ul class="nav__hidden">[/sub-prefix]{sub-item}[sub-suffix]</ul>[/sub-suffix]</li>[/item]
